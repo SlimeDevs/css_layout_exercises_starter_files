@@ -1,0 +1,40 @@
+.block-container {
+	width: 800px;
+	height: 500px;
+	margin: 200px auto;
+	font-size: 0;
+}
+
+.div-top {
+	width: 50%;
+	height: 200px;
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.div-bottom {
+	width: 33.33%;
+	height: 300px;
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.gray {
+	background-color: gray;
+}
+
+.black {
+	background-color: black;
+}
+
+.orange {
+	background-color: orange;
+}
